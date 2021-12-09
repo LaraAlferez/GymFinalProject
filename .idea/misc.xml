@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/College Data/Semester 6/Advanced Android App Development/GymFinalProject/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/College Data/Semester 6/Advanced Android App Development/GymFinalProject/app/src/main/res/layout/exercises.xml" value="0.27447916666666666" />
+        <entry key="..\:/College Data/Semester 6/Advanced Android App Development/GymFinalProject/app/src/main/res/layout/list_exercise.xml" value="0.27447916666666666" />
+        <entry key="..\:/College Data/Semester 6/Advanced Android App Development/GymFinalProject/app/src/main/res/layout/swimming_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/College Data/Semester 6/Advanced Android App Development/GymFinalProject/app/src/main/res/layout/swimming_sub.xml" value="0.27447916666666666" />
+        <entry key="..\:/College Data/Semester 6/Advanced Android App Development/GymFinalProject/app/src/main/res/layout/weights_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/College Data/Semester 6/Advanced Android App Development/GymFinalProject/app/src/main/res/layout/weights_sub.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/lara_/Desktop/GymFinalProject/app/src/main/res/drawable-v24/about_android_trivia.xml" value="0.2625" />
         <entry key="..\:/Users/lara_/Desktop/GymFinalProject/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/lara_/Desktop/GymFinalProject/app/src/main/res/layout/exercises.xml" value="0.2421875" />
@@ -14,7 +21,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
