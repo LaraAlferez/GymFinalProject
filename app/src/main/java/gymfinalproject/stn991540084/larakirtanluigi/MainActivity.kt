@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
             val text1 = when (i % 2) {
                 0 -> "Swimming"
                 1 -> "Weights"
+                2 -> "Hello"
                 else -> "none"
             }
             val item = ListItem(drawable, text1)
